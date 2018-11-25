@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WhateverModelStoreContainer" CdmEntityContainer="WhateverEntities">
+    <EntitySetMapping Name="Results">
+      <EntityTypeMapping TypeName="WhateverModel.Result">
+        <MappingFragment StoreEntitySet="Result">
+          <ScalarProperty Name="active" ColumnName="active" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="created" ColumnName="created" />
+          <ScalarProperty Name="nhi" ColumnName="nhi" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="isReal" ColumnName="isReal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

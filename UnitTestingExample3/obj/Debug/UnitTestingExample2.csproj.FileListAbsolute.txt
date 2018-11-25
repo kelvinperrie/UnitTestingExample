@@ -1,0 +1,12 @@
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\UnitTestingExample2.exe.config
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\UnitTestingExample2.exe
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\UnitTestingExample2.pdb
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\EntityFramework.dll
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\EntityFramework.SqlServer.dll
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\EntityFramework.xml
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\bin\Debug\EntityFramework.SqlServer.xml
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\obj\Debug\UnitTestingExample2.csprojAssemblyReference.cache
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\obj\Debug\UnitTestingExample2.csproj.CoreCompileInputs.cache
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\obj\Debug\UnitTestingExample2.csproj.CopyComplete
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\obj\Debug\UnitTestingExample2.exe
+D:\KelvinPerrie\Source\Mucking Around\UnitTestingExample\UnitTestingExample2\obj\Debug\UnitTestingExample2.pdb
