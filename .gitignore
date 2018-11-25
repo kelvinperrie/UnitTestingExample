@@ -1,0 +1,11 @@
+
+.vs/*
+*/bin/*
+UnitTestingExample/bin/*
+UnitTestingExample/obj/*
+UnitTestingExample2/bin/*
+UnitTestingExample2/obj/*
+UnitTestingExample3/bin/*
+UnitTestingExample3/obj/*
+UnitTestingExample3.Tests/bin/*
+UnitTestingExample3.Tests/obj/*
